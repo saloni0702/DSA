@@ -1,0 +1,18 @@
+Application:
+for balancing of symbols
+redo and undo operation
+forward and backward in web browser
+tower of hanoi
+tree traversals
+Depth firstt search (DFS)
+convertion- postfix, prefix, infix
+Recursive function
+reverse string
+
+
+Time Complexity:
+Insertion- O(1)
+Deletion- O(1)
+Find top of stack- O(1)
+Searching- O(n)
+
